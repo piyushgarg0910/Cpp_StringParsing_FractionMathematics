@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1755,5): warning : The referenced project '..\Project2\Project2.vcxproj' does not exist.
+  UnitTest_Fraction_Test.vcxproj -> C:\Users\garg__000\Documents\Visual Studio 2017\Projects\Fraction\FractionClass\Debug\UnitTest_Fraction_Test.exe
+  UnitTest_Fraction_Test.vcxproj -> C:\Users\garg__000\Documents\Visual Studio 2017\Projects\Fraction\FractionClass\Debug\UnitTest_Fraction_Test.pdb (Partial PDB)
